@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tranen-auf-dem-asphalt/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Tränen auf dem Asphalt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tranen-auf-dem-asphalt/) |
+| **Get License** | [Music Rights & Licensing for Tränen auf dem Asphalt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tranen-auf-dem-asphalt/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tränen auf dem Asphalt, doch die Nacht ist noch so jung
+> Ich fahr' durch die City, Baby, du bist meine Versuchung
+> Steig zu mir in den Wagen, spür den tiefen V8-Sound
+> Du bist mein Vibe, die Einzige, auf die ich heute bau'
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
