@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tranen-auf-dem-asphalt/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Tränen auf dem Asphalt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tranen-auf-dem-asphalt/) |
+| **Get License** | [Commercial Licensing for Tränen auf dem Asphalt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tranen-auf-dem-asphalt/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `0ad88f90be974836df1c726eac8d2a86f0f9b80f940f61a97390613871625084` |
 | **Timestamp** | June 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

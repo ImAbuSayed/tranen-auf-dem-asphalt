@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tränen auf dem Asphalt
+
+This log tracks the cryptographic history and versioning for the song **Tränen auf dem Asphalt** (tranen-auf-dem-asphalt).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-30T23:51:36.090673 | `v1` | `0ad88f90be974836df1c726eac8d2a86f0f9b80f940f61a97390613871625084` | `e9ab762d20f3bc1ee4fffa9ee085a3f793239a1090e7e556111e87d700529705` | `2026-06-30_tranen-auf-dem-asphalt-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
